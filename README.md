@@ -3,7 +3,7 @@
  involves using machine learning algorithms to analyze factors that influence customer
  satisfaction and build a predictive model.
 
-## Visualtion:
+## Visualization:
 <img width="564" height="413" alt="Screenshot 2025-06-07 235439" src="https://github.com/user-attachments/assets/e4823585-1ad7-4292-b4a3-27ab1ebc094f" />
 <img width="417" height="402" alt="Screenshot 2025-06-07 235420" src="https://github.com/user-attachments/assets/58598bc6-dfb1-4703-9bf4-d9ac56ddc883" />
 <img width="391" height="78" alt="Screenshot 2026-03-06 151228" src="https://github.com/user-attachments/assets/1d4d71cc-94db-4795-a95f-7b0fbc34e5f5" />
